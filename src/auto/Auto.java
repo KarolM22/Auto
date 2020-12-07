@@ -1,8 +1,9 @@
 
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * 13.	Una empresa automotriz necesita un sistema para seleccionar el tipo 
+de carro (auto, SUV o camioneta) lo cual debe de aparecer en un menú,
+y el color (negro, blanco o rojo) en otro menú. Al final se necesita que despliegue la selección realizada.
+Nota. Debe de anidarse una estructura de selección múltiple dentro de otra.
  */
 package auto;
 
