@@ -98,6 +98,7 @@ public class Auto {
         System.out.println("Su tipo de Auto es: "+TipoA);
         System.out.println("Su COLOR DE AUTO ES: "+color);
         
+        
     }
     
 }
